@@ -1,4 +1,4 @@
-# Projeto Argos — Checking Automático de Banners (98 FM Natal)
+# Projeto Argos — Checking Automático de Banners 
 
 Automação inteligente com visão computacional (OCR) para auditoria, captura de tela e comprovação de veiculação publicitária (checking comercial).
 *Inspirado em Argos Panoptes, o guardião de cem olhos que tudo vê e nunca dorme.*
